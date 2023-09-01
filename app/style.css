@@ -51,6 +51,7 @@ h1 {
   margin: 30px auto 0 auto;
   width: 500px;
   background-color: #6abfa86b;
+  border-radius: 20px;
 }
 .guide-content {
   width: 160px;
