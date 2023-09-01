@@ -48,7 +48,13 @@ h1 {
   padding: 17px;
 }
 .third-section {
-  margin: 0 auto;
+  margin: 30px auto 0 auto;
   width: 500px;
-  background-color: #e9decd;
+  background-color: #6abfa86b;
+}
+.guide-content {
+  width: 160px;
+}
+.foot-flex img {
+  border-radius: 100px;
 }
