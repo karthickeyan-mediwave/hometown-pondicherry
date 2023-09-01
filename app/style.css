@@ -32,3 +32,12 @@ body {
 .flex-section img {
   border-radius: 75px;
 }
+.flex-section p {
+  width: 250px;
+}
+.second-section {
+  background-color: #e7f3f3;
+}
+h1 {
+  padding: 25px;
+}
