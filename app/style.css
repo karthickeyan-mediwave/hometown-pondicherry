@@ -41,3 +41,14 @@ body {
 h1 {
   padding: 25px;
 }
+.foot-flex {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  padding: 17px;
+}
+.third-section {
+  margin: 0 auto;
+  width: 500px;
+  background-color: #e9decd;
+}
